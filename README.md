@@ -2,7 +2,9 @@
   
 # 🐯 Yoojin Jang 🐯
 
-💌 Contact: yoojinjangjang@gmail.com
+💌 Contact: yoojinjangjang@gmail.com   
+  
+ ![image](https://user-images.githubusercontent.com/94024391/159897962-9814a00a-bf74-40d5-95f9-5339ea6bbdfb.png)
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoojinjangjang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
