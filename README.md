@@ -12,10 +12,11 @@
 <a href="https://velog.io/@yoojinjangjang"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 
 <br>
+<h3> 💘 My Velog 💘</h3>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=yoojinjangjang)](https://velog.io/@yoojinjangjang) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yoojinjangjang)](https://velog.io/@yoojinjangjang)
-
+<br>
 <h2> Once I've Used 💻</h2>
 
 
