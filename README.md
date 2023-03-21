@@ -11,11 +11,13 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoojinjangjang&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
 <a href="https://velog.io/@yoojinjangjang"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> 
 
+
 <br>
-<h3> 💘 My Velog 💘</h3>
+<h3> 💘 My Velog & My BJ 💘</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=yoojinjangjang)](https://velog.io/@yoojinjangjang) 
-
+ &nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoojinjangjang)](https://solved.ac/yoojinjangjang/)
 <br>
 <h2> Once I've Used 💻</h2>
 
