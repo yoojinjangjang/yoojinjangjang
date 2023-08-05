@@ -13,10 +13,8 @@
 
 
 <br>
-<h3> 💘 My Velog & My BJ 💘</h3>
+<h3> 💘 My BJ 💘</h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=yoojinjangjang)](https://velog.io/@yoojinjangjang) 
- &nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoojinjangjang)](https://solved.ac/yoojinjangjang/)
 <br>
 <h2> Once I've Used 💻</h2>
